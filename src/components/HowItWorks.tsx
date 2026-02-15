@@ -3,9 +3,9 @@ import { ClipboardList, Brain, BarChart3 } from "lucide-react";
 const steps = [
   {
     icon: ClipboardList,
-    title: "Input Your Data",
+    title: "Upload Transcript",
     description:
-      "Enter symptoms, medical history, lifestyle factors, and demographics through our guided assessment.",
+      "Upload your medical reports, lab results, or health records in PDF, DOCX, or text format.",
   },
   {
     icon: Brain,
